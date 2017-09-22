@@ -29,7 +29,7 @@ class Libxext(AutotoolsPackage):
     """libXext - library for common extensions to the X11 protocol."""
 
     homepage = "http://cgit.freedesktop.org/xorg/lib/libXext"
-    url      = "https://www.x.org/archive/individual/lib/libXext-1.3.3.tar.gz"
+    url      = "ftp://ftp.x.org/pub/individual/lib/libXext-1.3.3.tar.gz"
 
     version('1.3.3', '93f5ec084c998efbfb0befed22f9b57f')
 

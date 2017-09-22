@@ -29,7 +29,7 @@ class Libxdamage(AutotoolsPackage):
     """This package contains the library for the X Damage extension."""
 
     homepage = "http://cgit.freedesktop.org/xorg/lib/libXdamage"
-    url      = "https://www.x.org/archive/individual/lib/libXdamage-1.1.4.tar.gz"
+    url      = "ftp://ftp.x.org/pub/individual/lib/libXdamage-1.1.4.tar.gz"
 
     version('1.1.4', '95867778da012623815214769007c0d7')
 

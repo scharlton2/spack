@@ -32,7 +32,7 @@ class Videoproto(AutotoolsPackage):
     mainly to rescale video playback in the video controller hardware."""
 
     homepage = "http://cgit.freedesktop.org/xorg/proto/videoproto"
-    url      = "https://www.x.org/archive/individual/proto/videoproto-2.3.3.tar.gz"
+    url      = "http://ftp.riken.jp/X11/ftp.x.org/pub/individual/proto/videoproto-2.3.3.tar.gz"
 
     version('2.3.3', 'd984100603ee2420072f27bb491f4b7d')
 

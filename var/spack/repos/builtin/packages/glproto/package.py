@@ -32,7 +32,7 @@ class Glproto(AutotoolsPackage):
     commands to the X server."""
 
     homepage = "https://www.x.org/wiki/"
-    url      = "https://www.x.org/archive/individual/proto/glproto-1.4.17.tar.gz"
+    url      = "http://ftp.naist.jp/pub/X11/x.org/individual/proto/glproto-1.4.17.tar.gz"
 
     version('1.4.17', 'd69554c1b51a83f2c6976a640819911b')
 

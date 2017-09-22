@@ -30,7 +30,7 @@ class Libxv(AutotoolsPackage):
     X Window System."""
 
     homepage = "http://cgit.freedesktop.org/xorg/lib/libXv"
-    url      = "https://www.x.org/archive/individual/lib/libXv-1.0.10.tar.gz"
+    url      = "ftp://ftp.x.org/pub/individual/lib/libXv-1.0.10.tar.gz"
 
     version('1.0.10', 'e7182673b4bbe3ca00ac932e22edc038')
 

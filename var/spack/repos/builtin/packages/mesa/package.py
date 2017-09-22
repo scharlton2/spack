@@ -30,8 +30,8 @@ class Mesa(AutotoolsPackage):
      - a system for rendering interactive 3D graphics."""
 
     homepage = "http://www.mesa3d.org"
-    url      = "https://mesa.freedesktop.org/archive/13.0.6/mesa-13.0.6.tar.xz"
-    list_url = "https://mesa.freedesktop.org/archive"
+    url      = "ftp://ftp.freedesktop.org/pub/mesa/mesa-17.1.5.tar.xz"
+    list_url = "ftp://ftp.freedesktop.org/pub/mesa"
     list_depth = 2
 
     version('17.1.5', '6cf936fbcaadd98924298a7009e8265d')

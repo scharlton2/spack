@@ -29,7 +29,7 @@ class Presentproto(AutotoolsPackage):
     """Present protocol specification and Xlib/Xserver headers."""
 
     homepage = "https://cgit.freedesktop.org/xorg/proto/presentproto/"
-    url      = "https://www.x.org/archive/individual/proto/presentproto-1.0.tar.gz"
+    url      = "http://ftp.naist.jp/pub/X11/x.org/individual/proto/presentproto-1.0.tar.gz"
 
     version('1.0', '57eaf4bb58e86476ec89cfb42d675961')
 

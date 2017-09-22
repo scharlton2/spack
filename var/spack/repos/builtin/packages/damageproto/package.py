@@ -32,7 +32,7 @@ class Damageproto(AutotoolsPackage):
     extension.  Library and server implementations are separate."""
 
     homepage = "https://cgit.freedesktop.org/xorg/proto/damageproto"
-    url      = "https://www.x.org/releases/individual/proto/damageproto-1.2.1.tar.gz"
+    url      = "http://ftp.riken.jp/X11/ftp.x.org/pub/individual/proto/damageproto-1.2.1.tar.gz"
 
     version('1.2.1', 'bf8c47b7f48625230cff155180f8ddce')
 
